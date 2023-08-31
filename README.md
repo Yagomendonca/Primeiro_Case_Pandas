@@ -1,6 +1,6 @@
 # Primeiro_Case_Pandas
 # Uso da biblioteca pandas
-# o dataset de varejo que temos em mãos é composto por informações de vendas de uma liga virtual que atual em todo o território nacional, vendendo produtos de diferentes departamentos. Além disso, a loja atua em diferentes canais de vendas, como marketplace, loja própria, entre outros. 
+O dataset de varejo que temos em mãos é composto por informações de vendas de uma liga virtual que atual em todo o território nacional, vendendo produtos de diferentes departamentos. Além disso, a loja atua em diferentes canais de vendas, como marketplace, loja própria, entre outros. 
 
 Premissas do negócio:
 
